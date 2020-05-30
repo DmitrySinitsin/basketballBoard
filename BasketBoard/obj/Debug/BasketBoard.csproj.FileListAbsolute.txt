@@ -1,0 +1,11 @@
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\bin\Debug\BasketBoard.exe.config
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\bin\Debug\BasketBoard.exe
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\bin\Debug\BasketBoard.pdb
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\obj\Debug\BasketBoard.csprojResolveAssemblyReference.cache
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\obj\Debug\BasketBoard.FormControl.resources
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\obj\Debug\BasketBoard.Properties.Resources.resources
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\obj\Debug\BasketBoard.csproj.GenerateResource.Cache
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\obj\Debug\BasketBoard.csproj.CoreCompileInputs.cache
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\obj\Debug\BasketBoard.exe
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\obj\Debug\BasketBoard.pdb
+C:\Users\Stalin\source\repos\BasketBoard\BasketBoard\obj\Debug\BasketBoard.FormBoard.resources
